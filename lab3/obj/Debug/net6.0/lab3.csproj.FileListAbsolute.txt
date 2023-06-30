@@ -1,0 +1,15 @@
+/home/karpiv/Desktop/lab3/obj/Debug/net6.0/lab3.csproj.AssemblyReference.cache
+/home/karpiv/Desktop/lab3/obj/Debug/net6.0/lab3.GeneratedMSBuildEditorConfig.editorconfig
+/home/karpiv/Desktop/lab3/obj/Debug/net6.0/lab3.AssemblyInfoInputs.cache
+/home/karpiv/Desktop/lab3/obj/Debug/net6.0/lab3.AssemblyInfo.cs
+/home/karpiv/Desktop/lab3/obj/Debug/net6.0/lab3.csproj.CoreCompileInputs.cache
+/home/karpiv/Desktop/lab3/bin/Debug/net6.0/lab3
+/home/karpiv/Desktop/lab3/bin/Debug/net6.0/lab3.deps.json
+/home/karpiv/Desktop/lab3/bin/Debug/net6.0/lab3.runtimeconfig.json
+/home/karpiv/Desktop/lab3/bin/Debug/net6.0/lab3.dll
+/home/karpiv/Desktop/lab3/bin/Debug/net6.0/ref/lab3.dll
+/home/karpiv/Desktop/lab3/bin/Debug/net6.0/lab3.pdb
+/home/karpiv/Desktop/lab3/obj/Debug/net6.0/lab3.dll
+/home/karpiv/Desktop/lab3/obj/Debug/net6.0/ref/lab3.dll
+/home/karpiv/Desktop/lab3/obj/Debug/net6.0/lab3.pdb
+/home/karpiv/Desktop/lab3/obj/Debug/net6.0/lab3.genruntimeconfig.cache
